@@ -1,0 +1,379 @@
+# Copyright (C) 2012 WordPress
+# This file is distributed under the same license as the WordPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: newlife\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-03 14:05+0300\n"
+"PO-Revision-Date: 2014-02-03 14:06+0300\n"
+"Last-Translator: bestwebsoft.com <plugins@bestwebsoft.com>\n"
+"Language-Team: BestWebSoft <wp_theme@bestwebsoft.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: front-page.php:26
+#: functions.php:116
+#: home.php:31
+#: searchform.php:12
+msgid "Search ..."
+msgstr "Поиск..."
+
+#: front-page.php:48
+#: archive.php:54
+#: home.php:53
+#: index.php:44
+#: category.php:42
+#: single.php:32
+msgid "Posted in"
+msgstr "Опубликовано в"
+
+#: front-page.php:55
+#: archive.php:63
+#: home.php:60
+#: index.php:52
+#: category.php:51
+#: single.php:40
+msgid "Tagged"
+msgstr "Помеченный"
+
+#: front-page.php:59
+#: archive.php:67
+#: home.php:64
+#: index.php:57
+#: search.php:25
+#: category.php:55
+#: single.php:52
+msgid "Leave a comment"
+msgstr "Оставьте комментарий"
+
+#: front-page.php:59
+#: archive.php:67
+#: home.php:64
+#: index.php:57
+#: search.php:25
+#: category.php:55
+#: single.php:52
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+#: front-page.php:59
+#: archive.php:67
+#: home.php:64
+#: index.php:57
+#: search.php:25
+#: category.php:55
+#: single.php:52
+msgid "Comments"
+msgstr "Комментарии"
+
+#: front-page.php:59
+#: archive.php:67
+#: home.php:64
+#: index.php:57
+#: search.php:25
+#: category.php:55
+#: single.php:52
+msgid "Comments Off"
+msgstr "Комментарии запрещены"
+
+#: front-page.php:60
+#: archive.php:68
+#: home.php:65
+#: index.php:58
+#: search.php:26
+#: category.php:56
+#: single.php:53
+msgid "Edit"
+msgstr "Изменить"
+
+#: front-page.php:74
+#: home.php:79
+msgid "Older posts"
+msgstr "Предыдущие посты"
+
+#: front-page.php:75
+#: home.php:80
+msgid "Newer posts"
+msgstr "Новые посты"
+
+#: sidebar.php:15
+#: functions.php:86
+msgid "Archives"
+msgstr "Архив блога:"
+
+#: sidebar.php:19
+msgid "Meta"
+msgstr "Meta"
+
+#: archive.php:20
+msgid "Daily Archives:"
+msgstr "Ежедневные архивы:"
+
+#: archive.php:22
+msgid "Monthly Archives:"
+msgstr "Месячные архивы:"
+
+#: archive.php:24
+msgid "Yearly Archives:"
+msgstr "Годовые архивы:"
+
+#: archive.php:26
+msgid "Blog Archives"
+msgstr "Архив блога:"
+
+#: archive.php:47
+#: index.php:37
+#: category.php:35
+#: single.php:26
+msgid "Continue reading"
+msgstr "Продолжение"
+
+#: archive.php:48
+#: index.php:38
+#: category.php:36
+#: single.php:27
+msgid "Pages:"
+msgstr "Страницы"
+
+#: archive.php:75
+#: index.php:66
+#: search.php:33
+#: category.php:63
+#: single.php:62
+msgid "Newer"
+msgstr "След."
+
+#: archive.php:76
+#: index.php:67
+#: search.php:34
+#: category.php:64
+#: single.php:61
+msgid "Older"
+msgstr "Пред."
+
+#: footer.php:20
+msgid "Copyright"
+msgstr "Copyright"
+
+#: footer.php:21
+msgid "Powered by"
+msgstr "Разработано"
+
+#: footer.php:21
+msgid "and"
+msgstr "и"
+
+#: footer.php:21
+msgid "WordPress"
+msgstr "WordPress"
+
+#: functions.php:18
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: functions.php:52
+msgid "Primary Widget Area"
+msgstr "Primary Widget Area"
+
+#: functions.php:54
+msgid "The primary widget area"
+msgstr "The primary widget area"
+
+#: functions.php:63
+msgid "Secondary Widget Area"
+msgstr "Secondary Widget Area"
+
+#: functions.php:65
+msgid "The secondary widget area"
+msgstr "Вторичные области виджета"
+
+#: functions.php:80
+msgid "Category"
+msgstr "Категория архивов"
+
+#: functions.php:82
+msgid "Tag"
+msgstr "Помеченный"
+
+#: functions.php:84
+msgid "Author"
+msgstr "Автор"
+
+#: functions.php:92
+#: functions.php:96
+msgid "Page"
+msgstr "Страница"
+
+#: functions.php:135
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">сказал:</span>"
+
+#: functions.php:138
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: functions.php:145
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s из %2$s"
+
+#: functions.php:145
+#: functions.php:162
+msgid "(Edit)"
+msgstr "(Изменить)"
+
+#: functions.php:162
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: index.php:33
+#: search.php:24
+msgid "read more"
+msgstr "подробнее"
+
+#: search.php:12
+msgid "Search Results for:"
+msgstr "Результаты поиска для:"
+
+#: search.php:38
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: search.php:40
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Извините, но ничего не соответствуют критериям поиска. Пожалуйста, попробуйте еще ​​раз с некоторыми другие ключевые слова."
+
+#: category.php:14
+msgid "Category Archives:"
+msgstr "Категория архивов:"
+
+#: comments.php:15
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Это сообщение защищено паролем. Введите пароль для просмотра комментариев."
+
+#: comments.php:27
+msgid "One Response to"
+msgstr "Один комментарий для"
+
+#: comments.php:27
+msgid "Responses to"
+msgstr "комментарии для"
+
+#: comments.php:31
+#: comments.php:42
+msgid "Older Comments"
+msgstr "Пред. комментарии"
+
+#: comments.php:32
+#: comments.php:43
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: 404.php:14
+msgid "Page not Found"
+msgstr "Страница не найдена"
+
+#: 404.php:16
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "Извините, но запрашиваемая Вами страница не найдена. Возможно, поиск поможет."
+
+#: single.php:47
+msgid "Previous image"
+msgstr "Предыдущее изображение"
+
+#: single.php:48
+msgid "Next image"
+msgstr "Следующее изображение"
+
+#~ msgid "Sorry, nothing found."
+#~ msgstr "Ничего не найдено"
+
+#~ msgid "Image"
+#~ msgstr "Изображение"
+
+#~ msgid "Next"
+#~ msgstr "Следующий"
+
+#~ msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+#~ msgstr "<span class=\"meta-nav\">&larr;</span> Предыдущие посты"
+
+#~ msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "%s <span class=\"meta-nav\">Следующие посты:</span>"
+
+#~ msgid "Page %s"
+#~ msgstr "Страницы %s"
+
+#~ msgid "Leave a Reply"
+#~ msgstr "Оставьте комментарий"
+
+#~ msgid "Your email address will not be published."
+#~ msgstr "Ваш электронный адрес не будет опубликован."
+
+#~ msgid "Required fields are marked"
+#~ msgstr "Обязательные поля помечены"
+
+#~ msgid "You may use these"
+#~ msgstr "Вы можете использовать эти"
+
+#~ msgid "tags and attributes:"
+#~ msgstr "теги и атрибуты:"
+
+#~ msgid "Name"
+#~ msgstr "Имя"
+
+#~ msgid "Name:"
+#~ msgstr "Имя:"
+
+#~ msgid "Email"
+#~ msgstr "E-mail"
+
+#~ msgid "Website"
+#~ msgstr "Веб-сайт"
+
+#~ msgid "Comment"
+#~ msgstr "Комментарий"
+
+#~ msgid "Logged in as"
+#~ msgstr "Вы вошли как"
+
+#~ msgid "Log out?"
+#~ msgstr "Выйти?"
+
+#~ msgid "Post Comment"
+#~ msgstr "Оставить комментарий"
+
+#~ msgid "Reply"
+#~ msgstr "Ответить"
+
+#~ msgid "Design by:"
+#~ msgstr "Дизайн:"
+
+#~ msgid "free web templates"
+#~ msgstr "бесплатные веб-шаблоны"
+
+#~ msgid "and partners:"
+#~ msgstr "и партнеры:"
+
+#~ msgid "web hosting"
+#~ msgstr "веб-хостинг"
+
+#~ msgid "php forms"
+#~ msgstr "php формы"
+
+#~ msgid "Technologies"
+#~ msgstr "Технологии"
+
+#~ msgid "See photo"
+#~ msgstr "Посмотреть"

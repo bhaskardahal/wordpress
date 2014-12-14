@@ -1,0 +1,85 @@
+Tempera 1.3
+TODO
+
+Tempera 1.2.3
+[X] editing notice in style.css
+[X] menu fixes from Nirvana
+[X] finally fix presentation page Read More posts button 
+[X] replace apostrophe with quotes in custom text link to avoid saving errors on some servers 
+[X] fix wp.media thingy 
+[X] moved meta title from inside hook to header.php
+[X] remove meta template
+[X] remove leftover meta author
+[X] wp_convert_bytes_to_hr() deprecated - Used size_format() instead
+[X] get_bloginfo('url') was found in the file theme-functions.php. Use home_url() instead
+
+Tempera 1.2.2
+[X] header image aspect ratio check should make the header 100% responsive
+[X] issue with header responsiveness: #branding , #bg_image {max-width:100%;height:auto;}
+[X] header widget positioning
+[X] added option to remove hover on columns
+[X] fixed theme still responsive after responsiveness disabled 
+[X] column count option for PP posts
+[X] update translation files
+
+Tempera 1.2.1
+[X] breadcrumbs did not handle tags (displaying an empty arrow)
+[X] updated IT translation
+[X] updated RU translation
+[X] rtl chrome/image related issue fix 
+[X] .parent-menu-item wrong colour (light gray on a black menu); should be same as .current-menu-item
+[X] table border option doesn't hide #content tr th
+[X] desktop main menu remains hidden if opening/closing the mobile menu and rotating the tablet to landscape mode (also fixed in nirvana)
+[X] improve custom widgets support in pp columns
+ 
+Tempera 1.2
+[X]new mobile menu ([X]sub-sub-items need arrow to indicate they have more sub-sub-sub-items)
+[X] page templates don't display breadcrumbs
+[X] expand included icons in elusive font
+[X] #forbottom minheight via js disabled for now
+[X] "contact" social icon - same as email, minus the mailto:// link
+[X] "phone" social icon, indicating a phone, automatic tel:+internationalnumber link
+[X] note to self: social icons url sanitization a tad more generic
+[X] zoom option (next to responsiveness); allows up to 3x zoom on mobile; additionally moved meta viewport function in theme-meta.php file
+[X] removed last hardcoded colours from style-mobile (replaced with inherit); should handle dark colour schemes better
+[X] moved some extraneous js from main.php to admin.js
+[X] made all js files minify-able / correct javascript comments to handle newline removal (js compression) 
+[X] header widget area size: 60%, 50%, 33%, 25%; default to 33%
+[X] menu right align reverses the menu; added new correct "right" align, renamed old to "right (multiline)"; fixed menu item border/shadow css for right and rightmulti options
+[X] remove continue reading link from slide posts  * all themes
+[X] added spanish translation (frontend only)
+[X] underline links in slider captions
+[X] slider excerpts half or post excerpts
+[X] updated wp_title filter with twenty_twelve to avoid double title in feed images  * all themes
+[X] comments compatibility fix 
+
+Tempera 1.1
+-skipped-
+
+Tempera 1.0.1.1
+[X] malfunctioning height on PP
+
+Tempera 1.0.1
+[X] add 'color schemes' to description
+[X] remove html .mceContentBody max-width from dashboard css (causes issues with images)
+[X] slider caption bottom 20% instead of top 0% on mobile
+[X] option to disable latest news
+[X] replace pp "nothing found" posts message with a theme placeholder that no posts are available and how to disable displaying posts on the frontpage
+[X] hide slider caption title / text html when empty
+[X] hookable PP widgets
+[X] force footer to window bottom - removed forbottom min-height
+
+Tempera 1.0
+[X] COLOR SCHEMES
+[X] fixed header background color setting not applying
+[X] slider left right arrows on black
+[X] option for content-menu margin
+[X] option for content left/right padding
+[X] ajax loading on black
+[X] top bar full width/site width not working
+[X] fixed HTML5 inputs display issues
+[X] fixed Google fonts not working when &ext=... 
+[X] further enhanced PP responsiveness
+[X] Added Persian translation
+
+Earlier beta changelogs are available on http://www.cryoutcreations.eu/tempera

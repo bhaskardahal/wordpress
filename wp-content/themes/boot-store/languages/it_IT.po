@@ -1,0 +1,1075 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tcp-bootstrap-ecommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-30 12:29+0100\n"
+"PO-Revision-Date: 2013-09-15 19:34+0100\n"
+"Last-Translator: Angelo Giammarresi <info@wocmultimedia.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it_IT\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:21
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Questo è molto imbarazzante, non è vero?"
+
+#: ../404.php:25
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Sembra che non riusciamo a trovare quello che stai cercando. Forse se fai "
+"una ricerca puo esserti di maggiore aiuto."
+
+#: ../archive-tcp_list.php:34 ../archive-tcp_list.php:36
+#: ../archive-tcp_list.php:38 ../category.php:25
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../archive.php:36
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Archivi Giornalieri: %s"
+
+#: ../archive.php:38
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Archivi Mensili: %s"
+
+#: ../archive.php:40
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Archivi Annuali: %s"
+
+#: ../archive.php:42
+msgid "Archives"
+msgstr "Archivi"
+
+#: ../comments.php:39
+msgid "Comment navigation"
+msgstr "Navigazione dei commenti"
+
+#: ../comments.php:40
+msgid "&larr; Older Comments"
+msgstr "&larr; Commenti precedenti"
+
+#: ../comments.php:41
+msgid "Newer Comments &rarr;"
+msgstr "Nuovi Commenti &rarr;"
+
+#: ../comments.php:50
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+#: ../content-aside.php:14 ../content-aside.php:21 ../content-image.php:18
+#: ../content-link.php:19 ../content-quote.php:18
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permalink a %s"
+
+#: ../content-aside.php:16 ../content-image.php:14 ../content-link.php:15
+#: ../content-quote.php:14
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continua la lettura <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../content-aside.php:24 ../content-image.php:24 ../content-link.php:22
+#: ../content-quote.php:21
+msgid "Leave a reply"
+msgstr "Lascia un commento"
+
+#: ../content-aside.php:24 ../content-image.php:24 ../content-link.php:22
+#: ../content-quote.php:21
+msgid "1 Reply"
+msgstr "1 Commento"
+
+#: ../content-aside.php:24 ../content-image.php:24 ../content-link.php:22
+#: ../content-quote.php:21
+msgid "% Replies"
+msgstr "% Commenti"
+
+#: ../content-aside.php:27 ../content-image.php:27 ../content-link.php:25
+#: ../content-page.php:22 ../content-quote.php:24
+msgid "Edit"
+msgstr "Modifica"
+
+#: ../content-link.php:13
+msgid "Link"
+msgstr "Collegamento"
+
+#: ../content-none.php:14
+msgid "Nothing Found"
+msgstr "Non abbiamo trovato nulla"
+
+#: ../content-none.php:18
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+"Spiacenti, ma non abbiamo trovato nulla. Forse, facendo una ricerca potresti "
+"trovare un articolo correlato."
+
+#: ../content-page.php:19
+msgid "Pages:"
+msgstr "Pagine:"
+
+#: ../content-search.php:46
+msgid "Out of stock"
+msgstr "Senza Stock/Scorte"
+
+#: ../content.php:24
+msgid "Featured post"
+msgstr "Articolo in Evidenza"
+
+#: ../footer.php:44
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: ../footer.php:44
+#, php-format
+msgid ""
+"Running %s & <a title=\"WordPress eCommerce Plugin\" href=\"http://"
+"thecartpress.com\">TheCartPress</a>"
+msgstr ""
+"Sviluppato con %s & <a title=\"WordPress eCommerce Plugin\" href=\"http://"
+"thecartpress.com\">TheCartPress</a>"
+
+#: ../functions.php:64
+msgid "Primary Menu"
+msgstr "Menu Principale"
+
+#: ../functions.php:67
+msgid "Secondary Menu"
+msgstr "Menu Secondario"
+
+#: ../functions.php:268
+#, php-format
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: ../functions.php:293
+msgid "Store/Site Sidebar"
+msgstr "Sidebar per il Negozio/Sito "
+
+#: ../functions.php:295
+msgid "Appears on Store pages"
+msgstr "Appare in tutte le pagine del Negozio"
+
+#: ../functions.php:302
+msgid "Blog Sidebar"
+msgstr "Sidebar per il blog"
+
+#: ../functions.php:304
+msgid ""
+"Appears in blog templates: archive, single, category and author templates"
+msgstr "Apppare nei modelli del blog: archivio, singolo, categorie ed autore"
+
+#: ../functions.php:311
+msgid "Site Pages Sidebar"
+msgstr "Sidebar per le Pagine del Sito"
+
+#: ../functions.php:313
+msgid "Appears in pages"
+msgstr "Appare nelle pagine"
+
+#: ../functions.php:320
+msgid "Shoppingcart/Checkout Pages Sidebar"
+msgstr "Sidebar per le pagine del Carrello Acquisti/Checkout"
+
+#: ../functions.php:322
+msgid "Appears in shoppingcart-checkout template"
+msgstr "Appare nel modello Carrello Acquisti-checkout"
+
+#: ../functions.php:329
+msgid "Author Page Sidebar"
+msgstr "Sidebar per le pagine dell'Autore"
+
+#: ../functions.php:331
+msgid "Appears in author template"
+msgstr "Appare nel modello autore"
+
+#: ../functions.php:338
+msgid "Customer Account Pages Sidebar"
+msgstr "Sidebar per le pagine dell'Utente"
+
+#: ../functions.php:340
+msgid "Appears in Customer Account Pages templates"
+msgstr "Appare nel modello pagine utente"
+
+#: ../functions.php:347
+msgid "Community Sidebar"
+msgstr "Sidebar per la comunità"
+
+#: ../functions.php:349
+msgid "Appears in Buddypress community templates"
+msgstr "Appare nel modello pagine comunità Buddypress "
+
+#: ../functions.php:356
+msgid "In TCP loop"
+msgstr "Nel TCP loop"
+
+#: ../functions.php:358
+msgid "Appears in tcp loops, after excerpt"
+msgstr "Visibile nel TCP loop, dopo il riassunto"
+
+#: ../functions.php:365
+msgid "Below the purchase area"
+msgstr "Sotto l'area acquisti"
+
+#: ../functions.php:367
+msgid "Appears in product details page, below the purchase area"
+msgstr "Visible nella pagina dettagli del prodotto, sotto l'area acquisto"
+
+#: ../functions.php:374
+msgid "Product Detail Tab 1"
+msgstr "Dettaglio Prodotto Tab 1"
+
+#: ../functions.php:376
+msgid "Second tab in single product page"
+msgstr "Tab 2 nella pagina dei dettagli prodotto"
+
+#: ../functions.php:383
+msgid "Product Detail Tab 2"
+msgstr "Dettaglio Prodotto Tab 2"
+
+#: ../functions.php:385
+msgid "Third tab in single product page"
+msgstr "Tab 3 nella pagina dei dettagli prodotto"
+
+#: ../functions.php:392
+msgid "Product Detail Tab 3"
+msgstr "Dettaglio Prodotto Tab 3"
+
+#: ../functions.php:394
+msgid "Fourth tab in single product page"
+msgstr "Tab 4 nella pagina dei dettagli prodotto"
+
+#: ../functions.php:401
+msgid "Cross Sales/Content Sidebar"
+msgstr "Sidebar per le vendite/contenuti incrociati"
+
+#: ../functions.php:403
+msgid ""
+"Appears after the content in single, category, single-product and taxonomy "
+"templates (blog and store). Cross sales and cross content !"
+msgstr ""
+"Visibile sotto al contenuto singolo, categoria, prodotto singolo e modelli "
+"di Tassonomia (blog e negozio). Vendite incrociate e contenuto incrociato! "
+
+#: ../functions.php:410
+msgid "Horizontal Layered Navigation support"
+msgstr "Supporto per la navigazione dei livelli in orizzontale "
+
+#: ../functions.php:412
+msgid ""
+"Add support for horizontal layered navigation. Appears before the loop in "
+"taxonomy template. "
+msgstr ""
+"Aggiunge il supporto per la navigazione dei livelli in orizzontale. Visibile "
+"nel modello tassonomia prima del loop."
+
+#: ../functions.php:419
+msgid "First Front Page Widget Area"
+msgstr "Prima Area Widget della Pagina Iniziale"
+
+#: ../functions.php:421 ../functions.php:431
+msgid ""
+"Appears when using the optional Front Page template with a page set as "
+"Static Front Page"
+msgstr ""
+"Visibile quando per la Pagina Iniziale/Front Page si seleziona l'opzione usa "
+"modello Static Front Page/Pagina Iniziale Statica"
+
+#: ../functions.php:429
+msgid "Second Front Page Widget Area"
+msgstr "Seconda Area Widget della Pagina Iniziale"
+
+#: ../functions.php:438
+msgid "First footer Widget Area"
+msgstr "Prima Area Widget del piè di pagina"
+
+#: ../functions.php:446
+msgid "Second footer Widget Area"
+msgstr "Seconda Area Widget del piè di pagina"
+
+#: ../functions.php:454
+msgid "Third footer Widget Area"
+msgstr "Terza Area Widget del piè di pagina"
+
+#: ../functions.php:477
+msgid "Post navigation"
+msgstr "Navigazione degli articoli"
+
+#: ../functions.php:478
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Articoli precedenti"
+
+#: ../functions.php:479
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Articoli recenti <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../functions.php:504
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../functions.php:504
+msgid "(Edit)"
+msgstr "(Modifica)"
+
+#: ../functions.php:519
+msgid "Post author"
+msgstr "Autore dell'articolo"
+
+#: ../functions.php:525
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s in %2$s"
+
+#: ../functions.php:531
+msgid "Your comment is awaiting moderation."
+msgstr "Il tuo commento è in attesa di esser moderato."
+
+#: ../functions.php:540
+msgid "Reply"
+msgstr "Commento"
+
+#: ../functions.php:559 ../functions.php:562
+msgid ", "
+msgstr ","
+
+#: ../functions.php:573
+#, php-format
+msgid "View all posts by %s"
+msgstr "Mostrare tutti gli articoli di %s"
+
+#: ../functions.php:579
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author"
+"\"> by %4$s</span>."
+msgstr ""
+"Questo articolo è stato pubblicato in %1$s ed etichettato come %2$s il "
+"%3$s<span class=\"by-author\"> da %4$s</span>."
+
+#: ../functions.php:581
+#, php-format
+msgid ""
+"This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</"
+"span>."
+msgstr ""
+"Questo articolo è stato pubblicato in %1$s il %3$s<span class=\"by-author\"> "
+"da %4$s</span>."
+
+#: ../functions.php:583
+#, php-format
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+"Questo articolo è stato pubblicato il %3$s<span class=\"by-author\"> da "
+"%4$s</span>."
+
+#: ../functions.php:704
+msgid "Free"
+msgstr "Gratuito"
+
+#: ../functions.php:790
+msgid "Brands for products"
+msgstr "Marche di prodotti"
+
+#: ../functions.php:792
+msgid "Search Brands"
+msgstr "Cerca per marca"
+
+#: ../functions.php:793
+msgid "All Brands"
+msgstr "Tutte le marche"
+
+#: ../functions.php:794 ../functions.php:795
+msgid "Parent Brand"
+msgstr "Marca padre"
+
+#: ../functions.php:796
+msgid "Edit Brand"
+msgstr "Modifica marca"
+
+#: ../functions.php:797
+msgid "Update Brand"
+msgstr "Aggiorna marca"
+
+#: ../functions.php:798
+msgid "Add New Brand"
+msgstr "Aggiungi nuova marca"
+
+#: ../functions.php:799
+msgid "New Brand Name"
+msgstr "Nuovo nome marca"
+
+#: ../functions.php:806
+msgid "Brand"
+msgstr "Marca"
+
+#: ../header.php:48 ../header.php:322
+msgid "Login"
+msgstr "Accedere"
+
+#: ../header.php:57 ../header.php:324
+msgid "Register"
+msgstr "Registrazione"
+
+#: ../header.php:249
+msgid "More info"
+msgstr "Altre informazioni"
+
+#: ../header.php:334
+msgid "My Account"
+msgstr "Mio Conto"
+
+#: ../header.php:334
+#, php-format
+msgid "Hi, %s"
+msgstr "Ciao, %s"
+
+#: ../header.php:337
+msgid "Logout"
+msgstr "Disconnettersi"
+
+#: ../image.php:31
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+"<span class=\"meta-prep meta-prep-entry-date\">Pubblicato </span> <span "
+"class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>"
+"%2$s</time></span> il <a href=\"%3$s\" title=\"Link to full-size image\">"
+"%4$s &times; %5$s</a> in  <a href=\"%6$s\" title=\"Return to %7$s\" rel="
+"\"gallery\">%8$s</a>."
+
+#: ../image.php:46
+msgid "&larr; Previous"
+msgstr "&larr; Precedente"
+
+#: ../image.php:47
+msgid "Next &rarr;"
+msgstr "Seguente &rarr;"
+
+#: ../index.php:44
+msgid "No posts to display"
+msgstr "Nessun articolo da mostrare"
+
+#: ../index.php:48
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+"Sei pronto per pubblicare il tuo primo articolo? <a href=\"%s\">Comincia da "
+"qui</a>."
+
+#: ../loop-carousel-fullwidth.php:37 ../loop-tcp-grid.php:39
+#: ../loop-tcp-list.php:37
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+"Spiacenti, ma non abbiamo trovato alcun risultato per l'archivio richiesto. "
+"Forse, facendo una ricerca potresti trovare un articolo correlato."
+
+#: ../loop-carousel-fullwidth.php:161 ../loop-tcp-grid.php:184
+#: ../loop-tcp-list.php:166
+msgid "More <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Visualizza altro <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../loop-carousel-fullwidth.php:193 ../loop-tcp-grid.php:213
+#: ../loop-tcp-list.php:195
+msgid "Leave a review"
+msgstr "Lascia un commento"
+
+#: ../loop-carousel-fullwidth.php:193 ../loop-tcp-grid.php:213
+#: ../loop-tcp-list.php:195
+msgid "<b>1</b> Review"
+msgstr "<b>1</b> Commento"
+
+#: ../loop-carousel-fullwidth.php:193 ../loop-tcp-grid.php:213
+#: ../loop-tcp-list.php:195
+msgid "<b>%</b> Reviews"
+msgstr "<b>%</b> Commenti"
+
+#: ../profile-wp.php:8
+msgid "My Profile"
+msgstr "Il Mio Profilo"
+
+#: ../profile-wp.php:8
+#, php-format
+msgid "%s's Profile"
+msgstr "%s's Profilo"
+
+#: ../profile-wp.php:15
+msgid "Name"
+msgstr "Nome"
+
+#: ../profile-wp.php:24
+msgid "About Me"
+msgstr "Informazioni Personali"
+
+#: ../profile-wp.php:33
+msgid "Website"
+msgstr "Sito web"
+
+#: ../profile-wp.php:42
+msgid "Jabber"
+msgstr "Jabber"
+
+#: ../profile-wp.php:51
+msgid "AOL Messenger"
+msgstr "AOL Messenger"
+
+#: ../profile-wp.php:60
+msgid "Yahoo Messenger"
+msgstr "Yahoo Messenger"
+
+#: ../search.php:35
+#, php-format
+msgid "%s: Results for %s"
+msgstr "%s: Risultati per %s"
+
+#: ../search.php:53
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Spiacenti, ma nessun risultato coincide con i dati inseriti. Si prega di "
+"riprovare nuovamente utilizzando degli altri termini."
+
+#: ../sidebar-buddypress.php:24
+msgid "Forum Topic Tags"
+msgstr "Tags del forum"
+
+#: ../single-tcp_product.php:120
+#: ../admin/bootstrap-ecommerce-setup.class.php:313
+#: ../admin/bootstrap-ecommerce-setup.class.php:368
+#: ../admin/bootstrap-ecommerce-setup.class.php:423
+msgid "Description"
+msgstr "Descrizione"
+
+#: ../admin/boostrap-carousel.class.php:21
+msgid "Carousel"
+msgstr "Carosello"
+
+#: ../admin/boostrap-carousel.class.php:29
+msgid "Add to carousel of carousel template"
+msgstr "Aggiungere al carosello del modello con carosello"
+
+#: ../admin/boostrap-carousel.class.php:33
+msgid "Image to add"
+msgstr "Immagine da aggiungere"
+
+#: ../admin/boostrap-carousel.class.php:39
+msgid "Delete Image"
+msgstr "Elimina immagine"
+
+#: ../admin/boostrap-carousel.class.php:42
+msgid "If you upload a new file, existing one will be deleted."
+msgstr "Se aggiungi una nuova immagine quella esistente sarà cancellata."
+
+#: ../admin/boostrap-carousel.class.php:43
+msgid "Remember to Save or Update to upload or delete the image."
+msgstr ""
+"Ricordarsi di cliccare su Salva o Aggiorna, per caricare o cancellare "
+"l'immagine."
+
+#: ../admin/boostrap-carousel.class.php:57
+msgid "There was an error uploading the file."
+msgstr "Si è verificato un errore nel caricare il file."
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:26
+msgid "Boot Store options"
+msgstr "Opzioni Boot Store"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:26
+msgid "Options"
+msgstr "Opzioni"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:35
+msgid "Label one"
+msgstr "Label 1"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:36
+msgid "Label two"
+msgstr "Label 2"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:37
+msgid "Label three"
+msgstr "Label 3"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:48
+msgid "Theme options"
+msgstr "Opzioni del tema"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:54
+msgid "Settings updated"
+msgstr "Impostazioni aggiornate"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:63
+msgid "Logo"
+msgstr "Logo"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:64
+msgid ""
+"Image logo replaces the site title text. Be careful with the size of your "
+"logo."
+msgstr ""
+"L'immagine con il Logo sostituisce il testo del titolo del sito. Fare "
+"attenzione alle dimensioni del vostro logo."
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:71
+msgid "Select Image"
+msgstr "Selezionare una immagine"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:78
+msgid "Remove logo"
+msgstr "Rimuovere il logo"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:81
+msgid "Choose an image from your computer:"
+msgstr "Seleziona una immagine dal tuo computer"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:88
+msgid "Hide Site Description"
+msgstr "Nascondi la descrizione del sito"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:99
+#: ../admin/bootstrap-ecommerce-setup.class.php:107
+msgid "Layout"
+msgstr "Schema"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:100
+msgid "If you do not assign widgets to sidebars you will see one column layout"
+msgstr ""
+"Se non viene inserito alcun widget  nelle sidebar lo schema adottato sarà "
+"quello a colonna singola."
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:112
+msgid "Sidebar on right"
+msgstr "Barra di navigazione a destra"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:118
+msgid "Sidebar on left"
+msgstr "Barra di navigazione a sinistra"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:129
+msgid "Menus"
+msgstr "Menu"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:130
+msgid ""
+"To use these options you need to have WordPress menus defined. And don't "
+"forget to assign the menus to theme locations. (Appearance > menu)"
+msgstr ""
+"Per  utilizzare queste opzioni è necessario definire i menu di WordPress. "
+"Non dimenticare di assegnare le posizioni ai menu. (Aspetto > Menu)"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:137
+msgid "Primary top menu"
+msgstr "Menu principale"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:141
+#: ../admin/bootstrap-ecommerce-setup.class.php:153
+msgid "Dark"
+msgstr "Scuro"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:142
+#: ../admin/bootstrap-ecommerce-setup.class.php:154
+msgid "Light"
+msgstr "Chiaro"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:144
+#: ../admin/bootstrap-ecommerce-setup.class.php:156
+msgid "Transparent"
+msgstr "Trasparente"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:149
+msgid "Secondary top menu"
+msgstr "Menu secondario"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:161
+msgid "Sidebar menus"
+msgstr "Menu laterale"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:165
+msgid "Apply special styles to sidebar Navigation Trees, WordPress Menus, etc."
+msgstr ""
+"Applicare stili speciali ai menu delle barre laterali, utilizzabile con "
+"Navigation tree, WordPress menus, Flexipages, ecc."
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:173
+msgid "Titles for Product Detail Tabs"
+msgstr "Schede per i dettagli del prodotto"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:174
+#, php-format
+msgid ""
+"This tabs are for additional content in single product detail page. You can "
+"add content to each tab managing the different <a href=\"%swidgets.php"
+"\">widgetizable areas</a>"
+msgstr ""
+"Queste schede servono per mostrare contenuti aggiuntivi nella pagina dei "
+"dettagli del prodotto. È possibile aggiungere contenuto a ogni scheda, "
+"aggiungendo dei widget ad ognuna delle <a href=\"%swidgets.php\">aree per "
+"widget</a>"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:180
+msgid "Label One"
+msgstr "Label 1"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:188
+msgid "Label Two"
+msgstr "Label 2"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:196
+msgid "Label Three"
+msgstr "Label 3"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:206
+msgid "Carousel Setup"
+msgstr "Impostazione del Carosello"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:207
+msgid ""
+"Carousel can be displayed or not in front page. When you use full-width-"
+"carousel.php template the carousel always will be visible if it has items"
+msgstr ""
+"Carousel può essere visualizzato o meno nella prima pagina. Ovviamente "
+"quando si utilizza il modello full-width-carousel.php il carosello sarà "
+"sempre incluso."
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:213
+msgid "Hide Carousel in front page"
+msgstr "Nascondi il carosello nella Prima Pagina"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:221
+msgid "Opacity"
+msgstr "Opacità"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:225
+msgid "Number between 0 and 1, where 0 is transparent and 1 is total opacity."
+msgstr "Un numero compreso tra 0 e 1, dove 0 è trasparente e 1 è opaco."
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:230
+msgid "Excerpt length"
+msgstr "Lunghezza del riassunto (nº di parole)"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:238
+msgid "Hide More details button"
+msgstr "Nascondi il pulsante Visualizza più dettagli"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:255
+msgid "Hide 3 Shortcuts"
+msgstr "Nascondere i 3 accessi diretti nella Prima Pagina"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:260
+msgid ""
+"The 3 box shortcuts appears in front page. Also you can display them "
+"wherever you want using [3boxes] shortcode"
+msgstr ""
+"I 3 riquadri degli accessi diretti sono visibili nella Prima Pagina appena "
+"sotto il carosello, però possono essere utilizzati come si vuole, inserendo "
+"in qualsiasi pagina/articolo il codice abbreviato/shortcode [3boxes]"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:261
+msgid "Recommended image width: 350px"
+msgstr "Larghezza immagine raccomandata: 350px"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:268
+msgid "Shortcuts, 3 Cols"
+msgstr "Accessi diretti, 3 colonne"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:269
+msgid "Left Box"
+msgstr "Colonna sinistra"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:279
+#: ../admin/bootstrap-ecommerce-setup.class.php:334
+#: ../admin/bootstrap-ecommerce-setup.class.php:389
+msgid "Current image"
+msgstr "Immagine attuale"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:283
+#: ../admin/bootstrap-ecommerce-setup.class.php:338
+#: ../admin/bootstrap-ecommerce-setup.class.php:393
+msgid "Remove file"
+msgstr "Elimina file"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:305
+#: ../admin/bootstrap-ecommerce-setup.class.php:360
+#: ../admin/bootstrap-ecommerce-setup.class.php:415
+msgid "Title"
+msgstr "Titolo"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:323
+msgid "Center Box"
+msgstr "Colonna centrale"
+
+#: ../admin/bootstrap-ecommerce-setup.class.php:378
+msgid "Right Box"
+msgstr "Colonna destra"
+
+#: ../admin/bootstrap-ecommerce-support.class.php:28
+msgid "Boot Store Support"
+msgstr "Supporto Boot Store"
+
+#: ../admin/bootstrap-ecommerce-support.class.php:28
+#: ../admin/bootstrap-ecommerce-support.class.php:32
+msgid "eCommerce Support"
+msgstr "Supporto eCommerce "
+
+#: ../admin/BPLoginWidget.class.php:26
+msgid "Allow to create a buddyPress login"
+msgstr "Consente di creare un formulario di accesso BuddyPress"
+
+#: ../admin/BPLoginWidget.class.php:47
+msgid "Log Out"
+msgstr "Disconnessione"
+
+#: ../admin/BPLoginWidget.class.php:66
+#, php-format
+msgid ""
+"<a href=\"%s\" title=\"Create account\" class=\"btn btn-primary btn-large"
+"\">Create account to join community</a>"
+msgstr ""
+"<a href=\"%s\" title=\"Creare un account\" class=\"btn btn-primary btn-large"
+"\">Creare un account per accedere alla comunità</a>"
+
+#: ../admin/BPLoginWidget.class.php:74
+msgid "Username"
+msgstr "Nome utente"
+
+#: ../admin/BPLoginWidget.class.php:77
+msgid "Password"
+msgstr "Password"
+
+#: ../admin/BPLoginWidget.class.php:80
+msgid "Remember Me"
+msgstr "Ricordami"
+
+#: ../admin/BPLoginWidget.class.php:83
+msgid "Log In"
+msgstr "Accesso"
+
+#~ msgid "Load More"
+#~ msgstr "Cargar mas"
+
+#~ msgid "Delete"
+#~ msgstr "Borrar"
+
+#~ msgid "Remove Favorite"
+#~ msgstr "Eliminar  favorito"
+
+#~ msgid "Forum Replies"
+#~ msgstr "Respuestas"
+
+#~ msgid "Post in"
+#~ msgstr "Publicado en"
+
+#~ msgid "Create a Site"
+#~ msgstr "Crear un Sitio"
+
+#~ msgid "Order By:"
+#~ msgstr "Ordenar por:"
+
+#~ msgid "Permalink"
+#~ msgstr "Enlace permanente"
+
+#~ msgid "Create a Group"
+#~ msgstr "Cree un grupo"
+
+#~ msgid "Upload Image"
+#~ msgstr "Subir imagen"
+
+#~ msgid "Avatar preview"
+#~ msgstr "Previsaulizar avatar"
+
+#~ msgid "Remove Invite"
+#~ msgstr "Eliminar invitación"
+
+#~ msgid "active %s"
+#~ msgstr "Activo %s"
+
+#~ msgid "Newly Created"
+#~ msgstr "Creado recientemente"
+
+#~ msgid "Delete Avatar"
+#~ msgstr "Borrar Avatar"
+
+#~ msgid "Remove this member"
+#~ msgstr "Borrar este miembro"
+
+#~ msgid "Remove from group"
+#~ msgstr "Eliminar del grupo"
+
+#~ msgid "Delete Group"
+#~ msgstr "Borrar grupo"
+
+#~ msgid "Comments (optional)"
+#~ msgstr "Comentarios 8opcional)"
+
+#~ msgid "Edit:"
+#~ msgstr "Editar:"
+
+#~ msgid "New Reply"
+#~ msgstr "Nueva respuesta"
+
+#~ msgid "%1$s said %2$s:"
+#~ msgstr "%1$s dijo %2$s"
+
+#~ msgid "Permanent link to this post"
+#~ msgstr "Enlace permanente a este post"
+
+#~ msgid "Add a reply:"
+#~ msgstr "Deja un comentario:"
+
+#~ msgid "Post Reply"
+#~ msgstr "Post Reply"
+
+#~ msgid "Newest Registered"
+#~ msgstr "Últimos registrados"
+
+#~ msgid "Message"
+#~ msgstr "Mensaje"
+
+#~ msgid "Delete Message"
+#~ msgstr "Borrar Mensaje"
+
+#~ msgid "You are alone in this conversation."
+#~ msgstr "Estás solo en esta conversación."
+
+#~ msgid "Send Reply"
+#~ msgstr "Responder"
+
+#~ msgid "Delete Account"
+#~ msgstr "Borrar Cuenta"
+
+#~ msgid "Create an Account"
+#~ msgstr "Crea una cuenta"
+
+#~ msgid "Email Address"
+#~ msgstr "Correo electrónico"
+
+#~ msgid "Cart %s"
+#~ msgstr "Compra %s"
+
+#~ msgid "Category Archives: %s"
+#~ msgstr "Artículos en esta categoría: %s"
+
+#~ msgid "Hi"
+#~ msgstr "Hola"
+
+#~ msgid "View all products by %s <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr ""
+#~ "Ver todos los productos de %s <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgid "Tag Archives: %s"
+#~ msgstr "Archivo para la etiqueta:  %s"
+
+#~ msgid "Single Product Tabs"
+#~ msgstr "pestañas de detalle de producto"
+
+#~ msgid "Align titles in loop"
+#~ msgstr "Alinear títulos de producto "
+
+#~ msgid "Align Product titles in Loop"
+#~ msgstr "Alinear títulos de producto en el grid"
+
+#~ msgid "Pagina home"
+#~ msgstr "Página de inicio"
+
+#~ msgid "label one"
+#~ msgstr "Label 1"
+
+#~ msgid "label two"
+#~ msgstr "Label 2"
+
+#~ msgid "label three"
+#~ msgstr "Label 3"
+
+#~ msgid "Menu"
+#~ msgstr "Menú"
+
+#~ msgid "Author Archives: %s"
+#~ msgstr "Artículos del autor: %s"
+
+#~ msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "Todos los artículos por %s <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgid "Proudly powered by %s"
+#~ msgstr ""
+#~ "Desarrollado con <a href=\"http://es.wordpress.org/\"> %s</a> y <a href="
+#~ "\"http://thecartpress.com/\">TheCartPress</a>"
+
+#~ msgid "View/hide tier price"
+#~ msgstr "Ver/Ocultar rangos de precios"
+
+#~ msgid "Payment method"
+#~ msgstr "Forma de pago"
+
+#~ msgid "Payment notice"
+#~ msgstr "Aviso de pago"
+
+#~ msgid "Shipping method"
+#~ msgstr "Método de envío"
+
+#~ msgid "Shipping notice"
+#~ msgstr "Aviso de envío"
+
+#~ msgid "Status"
+#~ msgstr "Estado"
+
+#~ msgid "Shipping address"
+#~ msgstr "Dirección de envío"
+
+#~ msgid "Telephones"
+#~ msgstr "Teléfonos"
+
+#~ msgid "Fax"
+#~ msgstr "Fax"
+
+#~ msgid "Shipping and Billing address"
+#~ msgstr "Dirección de envío y facturación"
+
+#~ msgid "Price"
+#~ msgstr "Precio"
+
+#~ msgid "Units"
+#~ msgstr "unidades"
+
+#~ msgid "Sku"
+#~ msgstr "Sku"
+
+#~ msgid "Tax"
+#~ msgstr "Impuesto"
+
+#~ msgid "Total"
+#~ msgstr "Total"
+
+#~ msgid "Discount %s"
+#~ msgstr "Descuento  %s"
+
+#~ msgid "Modify"
+#~ msgstr "Dodificar"
+
+#~ msgid "Subtotal"
+#~ msgstr "Subtotal"
+
+#~ msgid "Discount"
+#~ msgstr "Descuento"
+
+#~ msgid "Taxes"
+#~ msgstr "Impuestos"
